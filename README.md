@@ -1,7 +1,7 @@
 # 区块链知识框架
 
-##阅读资料
-###技术层面
+## 阅读资料
+### 技术层面
 - **比特币论文**
 	- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 	- [比特币：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
@@ -24,7 +24,7 @@
 	- 2017年底，杨保华（IBM Hyperledger团队）、陈昌著
 	- 重点介绍Hyperlerger项目
 
-###业务层面
+### 业务层面
 - **区块链：从数字货币到信用社会**
 	- 长铗（巴比特）,韩峰
 - **区块链新经济蓝图及导读**
@@ -33,19 +33,19 @@
 	- 张健（火币网）
 	- 沿人类社会经济发展规律由浅入深介绍区块链。第四章涉及比特币底层技术
 
-###标准化白皮书
+### 标准化白皮书
 - [工信部:2016中国区块链技术和应用发展白皮书](http://www.199it.com/archives/526865.html)
 - [TrustSQL腾讯区块链白皮书](https://trustsql.qq.com/chain_oss/TrustSQL_WhitePaper.html)
 - [WEF（世界经济论坛） Realizing Potential Blockchain](http://www3.weforum.org/docs/WEF_Realizing_Potential_Blockchain.pdf)
 
-###Blogs
+### Blogs
 - [精读比特币白皮书系列（1-6）](https://www.jianshu.com/p/ca0c0a0e0faa)
 - [详解最近大热的闪电网络、雷电网络和CORDA](http://www.8btc.com/ln-rn-corda)
 - [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 - [比特币源码分析](http://blog.csdn.net/u012183589/article/category/7131199)
 
 
-##技术栈
+## 技术栈
 - **数据存储**
 	- 目前为面向高吞吐量的键值数据库levelDB、rocksDB
 	- 未来：传统的关系型数据库Mysql、Oracle
@@ -103,7 +103,7 @@
 	- 埃森哲可编辑区块链：可修改
 	- IOTA基于有向非循环图（DAG）区块链：没有链的“分布式账本”
 
-##系统架构、源码阅读
+## 系统架构、源码阅读
 - **Bitcoin**
 	- bitcoin-core
 	- [lib-bitcoin](https://github.com/libbitcoin/libbitcoin/)
@@ -123,14 +123,17 @@
 	- Loopring
 	- Bancor
 
-##学术论文
+## 学术论文
+TBD
 
-##开源项目白皮书
+## 开源项目白皮书
+TBD
 
-##学习、资讯
+## 学习、资讯
 - **网站**
 	- [巴比特](www.8btc.com)：区块链门户网站，包括资讯、技术
 	- [区块链铅笔](www.chainb.com)：偏资讯
 - **公众号**
 
-##币圈
+## 币圈
+TBD
